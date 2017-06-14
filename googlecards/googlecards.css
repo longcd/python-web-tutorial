@@ -1,0 +1,43 @@
+body {
+    background-color: #eaeaea;
+}
+
+.blue-card {
+    background-color: #9cbfcc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 230px;
+    height: 290px;
+    padding-left: 58px;
+    padding-top: 56px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.green-card {
+    background-color: #6bb790;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 230px;
+    height: 290px;
+    padding-left: 58px;
+    padding-top: 56px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.yellow-card {
+    background-color: #f5b227;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 230px;
+    height: 290px;
+    padding-left: 58px;
+    padding-top: 56px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+p {
+    color: #ffffff;
+}
